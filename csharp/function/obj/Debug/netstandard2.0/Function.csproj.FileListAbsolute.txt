@@ -1,0 +1,7 @@
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\bin\Debug\netstandard2.0\Function.deps.json
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\bin\Debug\netstandard2.0\Function.dll
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\bin\Debug\netstandard2.0\Function.pdb
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\obj\Debug\netstandard2.0\Function.csprojAssemblyReference.cache
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\obj\Debug\netstandard2.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\obj\Debug\netstandard2.0\Function.dll
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\function\obj\Debug\netstandard2.0\Function.pdb

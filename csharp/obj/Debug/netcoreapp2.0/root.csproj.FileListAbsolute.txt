@@ -1,0 +1,12 @@
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\root.deps.json
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\root.runtimeconfig.json
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\root.runtimeconfig.dev.json
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\root.dll
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\root.pdb
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\Function.dll
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\bin\Debug\netcoreapp2.0\Function.pdb
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\obj\Debug\netcoreapp2.0\root.csprojAssemblyReference.cache
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\obj\Debug\netcoreapp2.0\root.csproj.CoreCompileInputs.cache
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\obj\Debug\netcoreapp2.0\root.csproj.CopyComplete
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\obj\Debug\netcoreapp2.0\root.dll
+C:\Users\ys.park\Desktop\Docker\workspace\faas\openfaas\template\csharp\obj\Debug\netcoreapp2.0\root.pdb

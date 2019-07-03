@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\root.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\Function.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\Function.csproj",
+        "projectName": "Function",
+        "projectPath": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\Function.csproj",
+        "packagesPath": "C:\\Users\\ys.park\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ys.park\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ys.park\\Desktop\\DotNetCore\\demo\\Nuget": {},
+          "http://package.mirero.co.kr/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://petabridge.myget.org/F/mirero-phobos/auth/b193185d-b218-4a65-a6c9-fa5a98f2d1dc/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\root.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\root.csproj",
+        "projectName": "root",
+        "projectPath": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\root.csproj",
+        "packagesPath": "C:\\Users\\ys.park\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ys.park\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ys.park\\Desktop\\DotNetCore\\demo\\Nuget": {},
+          "http://package.mirero.co.kr/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://petabridge.myget.org/F/mirero-phobos/auth/b193185d-b218-4a65-a6c9-fa5a98f2d1dc/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\Function.csproj": {
+                "projectPath": "C:\\Users\\ys.park\\Desktop\\Docker\\workspace\\faas\\openfaas\\template\\csharp\\function\\Function.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
